@@ -21,6 +21,10 @@ Un sistema de escritorio desarrollado en **Java** utilizando **Maven** para la a
 * **Base de Datos:** Script SQL (`BDMinasScript.txt`)
 
 ---
+imagenes
+<img width="702" height="391" alt="image" src="https://github.com/user-attachments/assets/4e523710-a280-4c66-90ec-9fb5f6c5f9ea" />
+<img width="732" height="412" alt="image" src="https://github.com/user-attachments/assets/9ba0e22e-3834-448f-9f07-a7ad339a5855" />
+
 
 ## 📂 Estructura del Proyecto
 
